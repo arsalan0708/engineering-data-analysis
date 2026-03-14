@@ -1,0 +1,2 @@
+﻿pandas>=1.5
+matplotlib>=3.7
